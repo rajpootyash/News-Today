@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f640cb65f614f2b277f92646363c9a7a",
+    "revision": "4d3e81f9de40a0c3029948e92e0aceff",
     "url": "/News-Today/index.html"
   },
   {
-    "revision": "483afba19d7e84c6bd48",
-    "url": "/News-Today/static/css/main.be40b5ee.chunk.css"
+    "revision": "5877d0d87c17906b939a",
+    "url": "/News-Today/static/css/main.bce6ab25.chunk.css"
   },
   {
     "revision": "9d8c06793250724494b9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/News-Today/static/js/2.1c7bc166.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "483afba19d7e84c6bd48",
-    "url": "/News-Today/static/js/main.0718f029.chunk.js"
+    "revision": "5877d0d87c17906b939a",
+    "url": "/News-Today/static/js/main.76d254e8.chunk.js"
   },
   {
     "revision": "6039b39427e27c2b0c5f",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d8d37e8089341e3eb71490f68a764812",
     "url": "/News-Today/static/media/1020px-SARS-CoV-2_without_background.d8d37e80.png"
-  },
-  {
-    "revision": "6f15463b2490d44e8d7305845ef4cb77",
-    "url": "/News-Today/static/media/ScreenShot_20200712182605.6f15463b.png"
   },
   {
     "revision": "1228105566fd9bd6a490ca44912d0559",
