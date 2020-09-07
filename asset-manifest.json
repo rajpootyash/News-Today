@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/News-Today/static/css/main.4426da93.chunk.css",
+    "main.css": "/News-Today/static/css/main.f090eab3.chunk.css",
     "main.js": "/News-Today/static/js/main.34f0e1de.chunk.js",
     "main.js.map": "/News-Today/static/js/main.34f0e1de.chunk.js.map",
     "runtime-main.js": "/News-Today/static/js/runtime-main.de533347.js",
@@ -8,9 +8,9 @@
     "static/js/2.1c7bc166.chunk.js": "/News-Today/static/js/2.1c7bc166.chunk.js",
     "static/js/2.1c7bc166.chunk.js.map": "/News-Today/static/js/2.1c7bc166.chunk.js.map",
     "index.html": "/News-Today/index.html",
-    "precache-manifest.227db3153fe83383296e52138194129d.js": "/News-Today/precache-manifest.227db3153fe83383296e52138194129d.js",
+    "precache-manifest.e19b289503a2c99977f818f4e9615137.js": "/News-Today/precache-manifest.e19b289503a2c99977f818f4e9615137.js",
     "service-worker.js": "/News-Today/service-worker.js",
-    "static/css/main.4426da93.chunk.css.map": "/News-Today/static/css/main.4426da93.chunk.css.map",
+    "static/css/main.f090eab3.chunk.css.map": "/News-Today/static/css/main.f090eab3.chunk.css.map",
     "static/js/2.1c7bc166.chunk.js.LICENSE.txt": "/News-Today/static/js/2.1c7bc166.chunk.js.LICENSE.txt",
     "static/media/1020px-SARS-CoV-2_without_background.png": "/News-Today/static/media/1020px-SARS-CoV-2_without_background.d8d37e80.png",
     "static/media/signup.css": "/News-Today/static/media/pexels-cottonbro-3944454-1.12281055.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.de533347.js",
     "static/js/2.1c7bc166.chunk.js",
-    "static/css/main.4426da93.chunk.css",
+    "static/css/main.f090eab3.chunk.css",
     "static/js/main.34f0e1de.chunk.js"
   ]
 }
