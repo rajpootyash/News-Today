@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f499aea4511d1776c23e75f15f8561a7",
+    "revision": "c85373f637d803399653eed47c48b198",
     "url": "/News-Today/index.html"
   },
   {
-    "revision": "888f279491216e44d03c",
-    "url": "/News-Today/static/css/main.ac7424eb.chunk.css"
+    "revision": "861440e7950efa01d11d",
+    "url": "/News-Today/static/css/main.28a19d3c.chunk.css"
   },
   {
     "revision": "9d8c06793250724494b9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/News-Today/static/js/2.1c7bc166.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "888f279491216e44d03c",
-    "url": "/News-Today/static/js/main.bf94e1b1.chunk.js"
+    "revision": "861440e7950efa01d11d",
+    "url": "/News-Today/static/js/main.d85ed55a.chunk.js"
   },
   {
     "revision": "6039b39427e27c2b0c5f",
