@@ -1,0 +1,50 @@
+#nimg
+{
+    height: 130px;
+    width: 120px;
+    margin-top: 10%;
+    margin-left:20px;
+    margin-bottom: 10%;
+    border-radius: 15px;
+    
+
+
+}
+
+
+
+.cards
+{
+    border: 1px black solid;
+    margin-top: 5px;
+    margin-left: 4px;
+    width: 640px;
+    display: flex;
+    
+}
+
+#ntitle
+{
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+#ntitle:hover
+{
+    transform: scale(1.02);
+}
+
+#ndesc
+{
+    padding-bottom: 30px;
+    font-size: 14px;
+}
+
+#ntime
+{
+    margin-left:350px;
+    font-weight: bolder;
+    font-size: 13px;
+    
+    
+}

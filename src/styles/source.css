@@ -1,0 +1,114 @@
+
+
+
+#ss
+{
+    height: 400px;
+    width: 600px;
+    border:2px black solid;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px black;
+    background-color: rgba(255, 255, 255, 0.514);
+    overflow-y: scroll;
+    
+}
+
+.sbtn
+{
+    border:1px rgb(74, 107, 212) solid;
+    background-color: rgba(255, 255, 255, 0.685);
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top:10px;
+    width: fit-content;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-top: 2px;
+    height:30px;
+    font-size: 16px;
+    outline:none;
+    font-weight: bolder;
+}
+
+#ss::-webkit-scrollbar
+{
+    display: none;
+}
+
+#nxt2
+{
+    text-align: center;
+    
+
+}
+
+#nxtt2
+{
+    width: 150px;
+    height: 40px;
+    color:white;
+    background-color: rgb(32, 31, 31);
+    outline:none;
+    border: 1px solid white;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 50px;
+    display: none;
+}
+
+#nxtt2:hover
+{
+    color: rgb(32, 31, 31);
+    background-color: white;
+    border-color: black;
+}
+
+#bckto
+{
+    
+    width: 150px;
+    height: 40px;
+    color:white;
+    background-color: rgb(32, 31, 31);
+    outline:none;
+    border: 1px solid white;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top:30px;
+
+}
+
+#saq
+{
+    
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 1px 1px 3px black;
+    margin-top: 30px;
+}
+
+#bckto:hover
+{
+    color: rgb(32, 31, 31);
+    background-color: white;
+    border-color: black;
+}
+
+#sv
+{
+    background:linear-gradient(109.6deg, rgb(127, 238, 208) 11.2%, rgb(99, 209, 231) 91.1%);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overflow-y: scroll;
+    
+
+}

@@ -1,0 +1,133 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+html
+{
+    background-color: #f2f2f2;
+    
+}
+
+
+#nk
+{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.container
+{
+    /* background-image: url('./top-view-photo-of-coffee-cup-on-yellow-surface-3803950.jpg'); */
+    background-image: url('../../styles/pexels-cottonbro-3944454-1.jpg');
+     background-size:cover;
+     background-position: 180px;
+     background-position-x: left;
+     /* background-position-y: 0px; */
+     background-repeat: no-repeat; 
+   overflow-y: scroll;
+   height: 100vh;
+   max-width: 100%;
+
+
+}
+.login
+{
+    height: 440px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: auto;
+    width: 500px;
+    border: 1px #E9E9E9 outset;
+    border-radius: 5px;
+    background-color: #ffffff;
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    margin-bottom: 50px;
+    box-shadow: #2c2b2b 3px 3px 30px 3px ;
+    
+
+
+}
+
+
+h2{
+
+    font-size: 30px;
+    font-family: 'Amiri', serif;
+    color:#4d4a4a;
+    margin-top: 20px;
+}
+
+#email,#name,#password,#confirm_password
+{
+    width:400px;
+    
+
+}
+
+
+#sign
+{
+    background-color: #0067B8; 
+    color:white;
+    outline: none;
+    border: none;
+    margin-left: 100px;
+    margin-top: 15px;
+    width:130px;
+    border-radius: 5px;
+    height: 35px;
+}
+#sign:hover
+{
+    background-color: #045ca0;
+}
+
+#sbtn 
+{
+    display: inline;
+}
+
+
+#err
+{
+    font-size: 17px;
+    color: rgb(223, 94, 94);
+}
+
+@media only screen and (max-width:500px)
+{
+    .login
+    {
+        margin-top: 90px;
+        }
+ 
+    #name
+    {
+        width:320px;
+    }
+    #email
+    {
+        width:320px;    }
+    #password
+    {
+        width:320px;    }
+    #confirm_password
+    {
+        width:320px;   
+     }
+
+    .container
+    {
+        /* background-image: url('./ScreenShot_20200712182605.png'); */
+        background-size: cover;
+    }
+    #pick
+    {
+        margin-top: 30px;
+        font-family: 'Fredericka the Great', cursive;
+        font-weight: bold;
+        font-size: 40px;
+        color: rgb(231, 37, 37);
+    }
+}

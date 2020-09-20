@@ -1,0 +1,135 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+#corona
+{
+    height: 450px;
+    width: 320px;
+    margin-right: 15px;
+    border:2px black solid;
+    margin-top:40px;
+    border-radius: 14px;
+    text-align: center;
+    background-color: rgb(168, 187, 248);
+    
+}
+
+#cs
+{
+    font-size: 22px;
+    font-family: 'Roboto Slab', serif;
+    
+    
+    
+}
+
+
+#data
+{
+    font-size: 25px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    text-shadow: 1px 1px 2px rgba(49, 49, 49, 0.76);
+}
+
+#state
+{
+    height: 30px;
+    font-size: 17px;
+    width: 300px;
+    border: 1px black solid;
+    padding-left: 10px;
+    margin-top: 20px;
+    border-radius: 20px;
+    outline:none;
+
+
+}
+#district
+{
+    border: 1px black solid;
+    margin-top: 20px;
+    border-radius: 20px;
+    height: 30px;
+    font-size: 17px;
+    width: 300px;
+
+    outline:none;
+    padding-left: 10px;
+
+}
+
+
+
+
+#rec
+{
+    margin-top: 20px;
+    color:rgb(29, 28, 28);  
+    font-weight: bold;
+    text-shadow: none;
+}
+
+#death
+{
+    color:rgb(226, 45, 45);
+    text-shadow: none;
+    text-shadow: 1px 0.5px rgb(82, 80, 80);
+    
+
+}
+
+#recovered
+{
+    color:rgb(3, 128, 13);
+    text-shadow: 1px 0.5px rgb(82, 80, 80);
+
+    
+}
+
+#confirmed
+{
+    color:rgb(233, 71, 42);
+    text-shadow: 1px 0.5px rgb(82, 80, 80);
+
+}
+
+#active
+{
+    color:rgb(179, 76, 35);
+    text-shadow: 1px 0.5px rgb(82, 80, 80);
+
+
+}
+
+
+#cr
+{
+    height: 30px;
+    margin-right: 5px;
+    margin-top:2px;
+    
+
+}
+
+#ct
+{
+    display: flex;
+    margin-left: 30px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+#area
+{
+    color:rgb(27, 27, 27);
+}
+
+#temp
+{
+    color:rgb(27, 27, 27);
+
+}

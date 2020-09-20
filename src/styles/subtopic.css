@@ -1,0 +1,117 @@
+#subtopics
+{
+    height: 400px;
+    width: 600px;
+    border:2px black solid;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px black;
+    background-color: rgb(136, 173, 253);
+}
+
+.btns
+{
+    border:1px rgb(45, 89, 236) solid;
+    background-color: rgba(255, 255, 255, 0.685);
+    border-radius: 14px;
+    margin-left: 10px;
+    margin-top:10px;
+    width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 12px;
+    padding-top: 2px;
+    height:27px;
+    font-size: 15px;
+    outline:none;
+    font-weight: bolder;
+}
+
+#next1
+{
+    width: 150px;
+    height: 40px;
+    color:white;
+    background-color: rgb(32, 31, 31);
+    outline:none;
+    border: 1px solid white;
+    border-radius: 12px;
+    margin-left: 220px;
+    font-size: 15px;
+    font-weight: bold;
+    display: none;
+}
+
+#next1:hover
+{
+    color: rgb(32, 31, 31);
+    background-color: white;
+    border-color: black;
+}
+
+#nxt
+{
+    height: 40px;
+
+}
+
+#sbt
+{
+    height: 340px;
+    overflow: scroll;
+}
+
+#sbt::-webkit-scrollbar
+{
+display: none;
+}
+
+
+#backto
+{
+    text-align: center;
+    width: 190px;
+    margin-top: 40px;
+    height: 40px;
+    font-size: 20px;
+    border:2px black solid;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: rgb(32, 31, 31);
+    outline:none;
+    color: white;
+}
+
+#backto:hover
+{
+    color: rgb(32, 31, 31);
+    background-color: white;
+    border-color: black;
+}
+
+#sb
+{
+    text-align: center;
+    margin:0;
+    padding: 0;
+    height:100vh;
+    overflow-y: scroll;
+    /* background-color: rgba(182, 240, 222, 0.404); */
+    background:linear-gradient(91.3deg, rgb(107, 165, 231) 1.5%, rgb(255, 255, 255) 100.3%);
+
+}
+
+#sq{
+    font-size: 30px;
+    margin-top: 50px;
+    text-shadow: 1px 1px 3px black;
+}
+
+#sa
+{
+    font-size: 20px;
+    text-shadow: 1px 1px 1px rgb(59, 58, 58);
+    
+}

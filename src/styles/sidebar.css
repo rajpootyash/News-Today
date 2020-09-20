@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+#sidebar
+{
+    width: 240px;
+}
+
+#name2
+{
+    margin-left: 5px;
+    font-size: 20px;
+    margin-top: 40px;
+    color: rgb(223, 94, 94);
+    text-align: center;
+    
+   
+}
+
+#per
+{
+    display: flex;
+    text-align: center;
+
+
+  
+}
+
+#person
+{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#avt
+{
+    font-size: 20px;
+    margin-top: 45px;
+}
+
+#topic
+{
+    font-size: 19px;
+    text-align: center;
+    margin-top: 40px;
+    cursor: pointer;
+}
+#subtopic
+{
+    cursor: pointer;
+
+    font-size: 19px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#sources
+{
+    cursor: pointer;
+
+    font-size: 19px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#removesources
+{
+    cursor: pointer;
+
+    font-size: 19px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+#logout
+{
+
+    cursor: pointer;
+    font-size: 19px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: rgba(0, 0, 0, 0.712);
+    
+  
+}
+#logdiv
+{
+    /* margin-top:400px; */
+    margin-top:85%;
+}

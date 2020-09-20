@@ -1,0 +1,181 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+
+#login
+{
+    height: 390px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    margin-bottom: auto;
+    width: 500px;
+    border: 1px #E9E9E9 outset;
+    border-radius: 8px;
+    background-color: #ffffff;
+
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    box-shadow: #2c2b2b 3px 3px 30px 3px ;
+    margin-bottom: 50px;
+    
+    
+}
+
+#lheader
+{
+    height: 90px;
+    width: stretch;
+    box-shadow: 2px 2px 4px black;
+    text-align: center;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+
+#titl
+{
+   
+    font-size: 33px;
+    padding-top: 5px;
+    color:rgba(0, 0, 0, 0.822);
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+#container
+{
+    
+    background-image: url('../../styles/pexels-cottonbro-3944454-1.jpg');
+    background-size:cover;
+    background-position: 180px;
+    background-position-x: left;
+   
+    background-repeat: no-repeat; 
+   overflow-y: scroll;
+   height: 100vh;
+   max-width: 100%;
+
+}
+h2{
+
+    font-size: 30px;
+    font-family: 'Amiri', serif;
+    color:#4d4a4a;
+}
+
+#email1
+{
+width: 400px;
+}
+#password1
+{
+ 
+width: 400px;
+    
+}
+#log
+{
+    background-color: #0067B8; 
+    color:white;
+    outline: none;
+    font-size: 16px;
+    border: none;
+    margin-left: 100px;
+    width:120px;
+    border-radius: 5px;
+    height: 40px;
+    margin-top: 10px;
+}
+#log:hover
+{
+    background-color: #045ca0;
+}
+
+#sbn 
+{
+    display: inline;
+
+}
+ 
+
+  p{
+      text-align: left;
+      margin-left: 30px;
+      color:#80868b;
+      margin-top: 40px;
+    
+      padding-bottom: -30px;
+  }
+
+  #error{
+      color: rgb(223, 94, 94);
+  }
+
+
+  #logo-1
+  {
+      margin-left: 50px;
+      width: 120px;
+      height: 110px;
+    
+  }
+  
+
+  
+  #img
+  {
+      text-align: center;
+      margin-top: 50px;
+    
+
+  }
+  #pick
+  {
+      margin-top: 30px;
+      font-family: 'Dancing Script', cursive;
+      font-weight: bold;
+      font-size: 70px;
+      color: rgb(231, 37, 37);
+  }
+
+
+  @media only screen and (max-width:500px)
+  {
+      #login
+      {
+          margin-top: 90px;
+          width: 370px;
+          height: 380px;
+
+      }
+      #log
+      {
+          width:90px;
+          height: 35px;
+      }
+
+      #email1,#password1
+      {
+          width:320px;
+      }
+
+      
+
+      #container
+      {
+          /* background-image: url('./ScreenShot_20200712182605.png'); */
+          background-size: cover;
+      }
+
+      #pick
+  {
+      margin-top: 30px;
+      font-family: 'Fredericka the Great', cursive;
+      font-weight: bold;
+      font-size: 40px;
+      color: rgb(231, 37, 37);
+  }
+  }
